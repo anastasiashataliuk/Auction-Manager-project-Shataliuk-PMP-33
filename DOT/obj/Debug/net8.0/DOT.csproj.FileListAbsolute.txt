@@ -1,0 +1,11 @@
+C:\Users\Nastya\source\repos\DOT\bin\Debug\net8.0\DOT.deps.json
+C:\Users\Nastya\source\repos\DOT\bin\Debug\net8.0\DOT.dll
+C:\Users\Nastya\source\repos\DOT\bin\Debug\net8.0\DOT.pdb
+C:\Users\Nastya\source\repos\DOT\obj\Debug\net8.0\DOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastya\source\repos\DOT\obj\Debug\net8.0\DOT.AssemblyInfoInputs.cache
+C:\Users\Nastya\source\repos\DOT\obj\Debug\net8.0\DOT.AssemblyInfo.cs
+C:\Users\Nastya\source\repos\DOT\obj\Debug\net8.0\DOT.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\DOT\obj\Debug\net8.0\DOT.dll
+C:\Users\Nastya\source\repos\DOT\obj\Debug\net8.0\refint\DOT.dll
+C:\Users\Nastya\source\repos\DOT\obj\Debug\net8.0\DOT.pdb
+C:\Users\Nastya\source\repos\DOT\obj\Debug\net8.0\ref\DOT.dll

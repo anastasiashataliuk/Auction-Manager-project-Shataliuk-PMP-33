@@ -1,0 +1,3 @@
+﻿{
+  "ConnectionString": "Data Source=server;Initial Catalog=database;Integrated Security=True;"
+}
