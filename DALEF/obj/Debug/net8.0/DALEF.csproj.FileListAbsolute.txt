@@ -1,0 +1,17 @@
+C:\Users\Nastya\source\repos\DALEF2\bin\Debug\net8.0\DALEF.deps.json
+C:\Users\Nastya\source\repos\DALEF2\bin\Debug\net8.0\DALEF.dll
+C:\Users\Nastya\source\repos\DALEF2\bin\Debug\net8.0\DALEF.pdb
+C:\Users\Nastya\source\repos\DALEF2\bin\Debug\net8.0\DAL.dll
+C:\Users\Nastya\source\repos\DALEF2\bin\Debug\net8.0\DOT.dll
+C:\Users\Nastya\source\repos\DALEF2\bin\Debug\net8.0\DAL.pdb
+C:\Users\Nastya\source\repos\DALEF2\bin\Debug\net8.0\DOT.pdb
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\DALEF.csproj.AssemblyReference.cache
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\DALEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\DALEF.AssemblyInfoInputs.cache
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\DALEF.AssemblyInfo.cs
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\DALEF.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\DALEF.csproj.Up2Date
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\DALEF.dll
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\refint\DALEF.dll
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\DALEF.pdb
+C:\Users\Nastya\source\repos\DALEF2\obj\Debug\net8.0\ref\DALEF.dll
